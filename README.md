@@ -1,2 +1,2 @@
 ## TicTacToe
-html css javascript jquery
+html css javascript and jquery
