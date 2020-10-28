@@ -23,7 +23,7 @@ table{
     border-collapse: collapse;
     border-spacing: 0;
     margin: 10px auto;
-    background-color: #cccc55;
+    background-color: #cccd55;
 }
 table tr td{
     width: 100px;
@@ -67,6 +67,6 @@ button{
     display: block;
     border: none;
     background-color: #ef76;
-    font-size: 40px;
+    font-size: 45px;
 }
 
